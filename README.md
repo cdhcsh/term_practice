@@ -5,5 +5,5 @@
 #### 파일명 : `[이름이니셜]/[문제번호 or 문제이름].py`
 
 ## 문제 목록
-- 1263 : 시간 관리 [https://www.acmicpc.net/problem/1263]
-- 2302 : 극장 좌석 [https://www.acmicpc.net/problem/2302]
+- 1263 : 시간 관리 https://www.acmicpc.net/problem/1263
+- 2302 : 극장 좌석 https://www.acmicpc.net/problem/2302
