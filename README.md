@@ -6,4 +6,4 @@
 
 ## 문제 목록
 - 1263 : 시간 관리 [https://www.acmicpc.net/problem/1263]
-- 1633 : 최고의 팀 만들기 [https://www.acmicpc.net/problem/1633]
+- 2302 : 극장 좌석 [https://www.acmicpc.net/problem/2302]
